@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KvngPaul
-- 👀 I’m interested in iOS development, frontend development and machine learning.
+- 👀 I’m interested in mobile development, fullstack development and machine learning.
 - 🌱 I’m currently learning iOS development
 
 <!---
